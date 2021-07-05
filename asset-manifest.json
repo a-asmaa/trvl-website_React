@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/trvl-website_React/static/css/main.7c605e25.chunk.css",
-    "main.js": "/trvl-website_React/static/js/main.0a1ac1e6.chunk.js",
-    "main.js.map": "/trvl-website_React/static/js/main.0a1ac1e6.chunk.js.map",
+    "main.js": "/trvl-website_React/static/js/main.13fde009.chunk.js",
+    "main.js.map": "/trvl-website_React/static/js/main.13fde009.chunk.js.map",
     "runtime-main.js": "/trvl-website_React/static/js/runtime-main.d3e4a1f5.js",
     "runtime-main.js.map": "/trvl-website_React/static/js/runtime-main.d3e4a1f5.js.map",
     "static/js/2.6433585b.chunk.js": "/trvl-website_React/static/js/2.6433585b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d3e4a1f5.js",
     "static/js/2.6433585b.chunk.js",
     "static/css/main.7c605e25.chunk.css",
-    "static/js/main.0a1ac1e6.chunk.js"
+    "static/js/main.13fde009.chunk.js"
   ]
 }
