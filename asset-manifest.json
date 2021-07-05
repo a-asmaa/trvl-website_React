@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trvl-website_React/static/css/main.7c605e25.chunk.css",
+    "main.js": "/trvl-website_React/static/js/main.0a1ac1e6.chunk.js",
+    "main.js.map": "/trvl-website_React/static/js/main.0a1ac1e6.chunk.js.map",
+    "runtime-main.js": "/trvl-website_React/static/js/runtime-main.d3e4a1f5.js",
+    "runtime-main.js.map": "/trvl-website_React/static/js/runtime-main.d3e4a1f5.js.map",
+    "static/js/2.6433585b.chunk.js": "/trvl-website_React/static/js/2.6433585b.chunk.js",
+    "static/js/2.6433585b.chunk.js.map": "/trvl-website_React/static/js/2.6433585b.chunk.js.map",
+    "index.html": "/trvl-website_React/index.html",
+    "static/css/main.7c605e25.chunk.css.map": "/trvl-website_React/static/css/main.7c605e25.chunk.css.map",
+    "static/js/2.6433585b.chunk.js.LICENSE.txt": "/trvl-website_React/static/js/2.6433585b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/trvl-website_React/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/trvl-website_React/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/trvl-website_React/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/trvl-website_React/static/media/img-9.f97f588f.jpg",
+    "static/media/HeroSection.css": "/trvl-website_React/static/media/img-home.c034239e.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/trvl-website_React/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3e4a1f5.js",
+    "static/js/2.6433585b.chunk.js",
+    "static/css/main.7c605e25.chunk.css",
+    "static/js/main.0a1ac1e6.chunk.js"
+  ]
+}
